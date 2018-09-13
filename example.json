@@ -1,0 +1,17 @@
+[
+    {
+        "testInstance": {
+            "id": 1,
+            "reading": {
+                "questions": [
+                    {
+                        "answer": "a"
+                    },
+                    {
+                        "answer": "b"
+                    }
+                ]
+            }
+        }
+    }
+]
